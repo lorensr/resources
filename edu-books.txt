@@ -1,0 +1,113 @@
+Coding - Technique
+
+Code Complete: A Practical Handbook of Software Construction, Steve McConnell, 2004.
+Clean Code: A Handbook of Agile Software Craftsmanship, Robert C. Martin, 2008.
+Coders at Work, Peter Seibel, 2009.
+Patterns of Enterprise Application Architecture, Martin Fowler, 2002.
+Planning Extreme Programming, Kent Beck & Martin Fowler, 2000.
+The Practice of Programming, Brian W. Kernighan & Rob Pike, 1999.
+Programming Pearls (2nd Edition) - Jon Bentley, 1999.
+The Mythical Man-Month: Essays on Software Engineering - Frederick Brooks, 1975.
+
+Coding - Technical
+
+Advanced Programming in the UNIX Environment, W. Richard Stevens & Stephen A. Rago, 2008.
+Beginning Linux Programming, Neil Matthew & Richard Stones, 2007.
+Software Engineering for Internet Applications, Eve Andersson, Philip Greenspun, & Andrew Grumet, 2006.
+Java Software Solutions: Foundations of Program Design, John Lewis and William Loftus, 2008.
+Structure and Interpretation of Computer Programs, Harold Abelson and Gerald Jay Sussman, 1996.
+The Haskell School of Expression: Learning Functional Programming through Multimedia, Paul Hudak, 2000.
+Introduction to Algorithms, Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, and Clifford Stein, 2003.
+
+Software 
+
+Smart and Gets Things Done: Joel Spolsky's Concise Guide to Finding the Best Technical Talent, Joel Spolsky, 2007.
+More Joel on Software: Further Thoughts on Diverse and Occasionally Related Matters That Will Prove of Interest to Software Developers, Designers, and ... or Ill Luck, Work with Them in Some Capacity, Joel Spolsky, 2008.
+The Best Software Writing I: Selected and Introduced by Joel Spolsky, 2005.
+Hackers and Painters: Big Ideas from the Computer Age, Paul Graham, 2004.
+The Psychology of Everyday Things, Donald A. Norman, 1988.
+Psychology of Computer Programming, Gerald M. Weinberg, 1985.
+Philip and Alex's Guide to Web Publishing - Philip Greenspun, 1999.
+
+Computer Industry
+
+Founders at Work: Stories of Startups' Early Days, Jessica Livingston, 2007.
+Reality Check: The Irreverent Guide to Outsmarting, Outmanaging, and Outmarketing Your Competition, Guy Kawasaki, 2008.
+iWoz: Computer Geek to Cult Icon: How I Invented the Personal Computer, Co-Founded Apple, and Had Fun Doing It, Steve Wozniak & Gina Smith, 2006.
+Unlocking the Clubhouse: Women in Computing, Jane Margolis & Allan Fisher, 2001.
+aol.com: How Steve Case Beat Bill Gates, Nailed the Netheads, and Made Millions in the War for the Web - Kara Swisher, 1998.
+Accidental Empires: How the Boys of Silicon Valley Make Their Millions, Battle Foreign Competition, and Still Can't Get a Date - Robert X. Cringley, 1992.
+The New New Thing: A Silicon Valley Story - Michael Lewis, 2001.
+The Inmates Are Running the Asylum: Why High Tech Products Drive Us Crazy and How to Restore the Sanity - Alan Cooper, 2004.
+In Search of Stupidity: Over 20 Years of High-Tech Marketing Disasters - Merrill R. Chapman.
+Growing a Business - Paul Hawken, 1987.
+Micro-ISV: From Vision to Reality - Bob Walsh, 2006.
+Rebel Code: Linux and the Open Source Revolution - Glyn Moody, 2002.
+Just for Fun: The Story of an Accidental Revolutionary - Linus Torvalds, 2001.
+
+Management
+
+First, Break All the Rules: What the World's Greatest Managers Do Differently, Marcus Buckingham & Curt Coffman, 1999.
+
+Applying to Jobs 
+
+How Would You Move Mount Fuji? Microsoft's Cult of the Puzzle - How the World's Smartest Company Selects the Most Creative Thinkers - William Poundstone, 2003.
+Programming Interviews Exposed: Secrets to Landing Your Next Job - John Mongan, Noah Suojanen & Eric Giguere, 2007.
+101 Great Answers to the Toughest Interview Questions, Ron Fry, 2009.
+301 Smart Answers to Tough Interview Questions, Vicky Oliver, 2005.
+Acing the Interview: How to Ask and Answer the Questions That Will Get You the Job, Tony Beshara, 2008.
+Resume Magic: Trade Secrets of a Professional Resume Writer, Susan Britton Whitcomb, 2006.
+
+Networking
+
+Computer Networking: A Top-Down Approach, James F. Kurose & Keith W. Ross, 2007.
+Network Warrior: Everything you need to know that wasn't on the CCNA exam, Gary A. Donahue, 2007.
+
+Theory
+
+Introduction to Algorithms, Second Edition, Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, & Clifford Stein, 2001.
+Artificial Intelligence: A Modern Approach (2nd Edition), Stuart Russell & Peter Norvig, 2002.
+Discrete Mathematics and Its Applications, Kenneth H. Rosen, 2007.
+Introduction to the Theory of Computation, Michael Sipser, 2005.
+
+Security
+
+The Craft of System Security, Sean Smith and John Marchesini, 2007.
+Hacking: The Art of Exploitation, 2nd Edition, Jon Erickson, 2008.
+The Art of Deception: Controlling the Human Element of Security, Kevin D. Mitnick, 2003.
+
+Telecom
+
+Telecom Systems, PSTN, PBX, Datacom, IP Telephony, IPTV, Wireless and Billing, Lawrence Harte, 2006.
+Switching to VoIP, Ted Wallingford, 2005.
+
+Health & Nutrition
+
+Anticancer, A New Way of Life, New Edition, David Servan-Schreiber, 2009.
+The New Becoming Vegetarian: The Essential Guide To A Healthy Vegetarian Diet, 2003.
+In Defense of Food: An Eater's Manifesto, Michael Pollan, 2009.
+The Omnivore's Dilemma: A Natural History of Four Meals, Michael Pollan, 2007.
+
+Cooking
+
+Madhur Jaffrey's Quick & Easy Indian Cooking, Madhur Jaffrey & Noel Barnhurst, 2007.
+Thai Food, David Thompson, 2002.
+Simple Chinese Cooking, Kylie Kwong, 2007.
+
+Home Repair
+
+Black & Decker Complete Photo Guide to Home Repair: with 350 Projects and 2000 Photos, 2008.
+Black & Decker Complete Guide to Wiring: Upgrade Your Main Service Panel - Discover the Latest Wiring Products - Complies with 2008 NEC, 2008.
+Black & Decker Complete Guide to Plumbing: Expanded 4th Edition - Modern Materials and Current Codes - All New Guide to Working with Gas Pipe, 2008.
+
+Practical 
+
+How to Repair Your Car, Paul Brand, 2006.
+ACEP First Aid Manual, 2nd edition, 2004.
+Taxes 2009 For Dummies, Eric Tyson, 2008.
+Investing For Dummies, Fifth edition, Eric Tyson, 2008.
+The Complete Guide to Massage: A Step-by-Step Approach to Total Body Relaxation, Susan Mumford, 1996.
+
+Misc Interesting
+
+Law 101: Everything You Need to Know about the American Legal System, Jay M. Feinman, 2006.
