@@ -1,0 +1,77 @@
+15" MacBook Pro, mid '09 model
+8GB DDR3 1066 RAM (which i routinely run out of... i dream about 16, but in the meantime i just kill a few chrome helpers)
+2.53 GHz Intel Core 2 Duo
+
+changes to basic system configuration
+(this is an incomplete list - i don't remember everything that i did)
+
+- apple icon -> dock -> 'turn hiding on'
+- terminal -> preferences -> settings -> check box 'use option as meta key'
+- enable meta key in cocoa applications: http://www.macosxhints.com/article.php?story=20010729214616497
+- sudo echo '127.0.0.1    ad.doubleclick.com' >> /etc/hosts
+- system preferences -> desktop & screen saver -> desktop -> fill screen with a black image
+- system preferences -> desktop & screen saver -> screen saver -> start screen saver never
+- system preferences -> spotlight -> menu keyboard shortcut: alt-space
+- system preferences -> keyboard -> keyboard -> use all F1 etc keys as function keys
+- system preferences -> keyboard -> keyboard shortcuts -> keyboard & text input -> move focus to menu bar: ctrl-shift-f
+- system preferences -> keyboard -> keyboard shortcuts -> application shortcuts -> show help menu: cmd-q, quit: something else (the substitutions i tried didn't work [for instance alt-shift-q. can anyone tell me why this doesn't work?], which sadly means i have to ctrl-shift-f, right, down, up, enter to exit programs, but the main point is that cmd-q no longer quits a program, so when i hit it accidentally instead of cmd-w, i'm okay)
+- system preferences -> accounts -> login items -> quicksilver, firefox, chrome, emacs, thunderbird, and aTypeTrainer4Mac
+
+programs i use
+
+- wireshark: http://michaelgracie.com/2009/10/13/getting-wireshark-running-on-os-x-snow-leopard-10.6/
+- istat menus with only a pie chart for ram and graphs for cpus
+- quicksilver with cmd-space to open
+- the ability to tile windows: http://idletogether.com/tile-windows-in-osx-mac-leopard-quicksilver-howto-applescript/ (i changed maxCols to 2)
+- google chrome with xmarks, webpage screenshot, the camelizer, lastpass, tab menu, and session manager (the last two are buggy with the amount of windows and tabs i keep open, but are better than nothing)
+- firefox with xmarks, tab mix plus, gwt developer plugin, ubiquity, session manager, and firebug
+- skype
+- emacs (the version that is a stand-alone mac program, versus in a terminal window)
+- ftp & sftp (command line)
+- aTypeTrainer4Mac
+- audacity
+- eclipse
+- gimp
+- front row  
+- mysql, mysql query browser, and mysql administrator
+- parallels
+- picasa
+- screenflow
+- the unarchiver
+- microsoft office
+- vlc
+- nmap
+- activity monitor
+- terminal (http://aaronlongwell.com/2009/04/mac-osx-terminal-keyboard-mappings-home-end-p.html)
+- git
+
+past programs on mac
+
+- filezilla
+- mactex
+- textedit
+- thunderbird (with nostalgy)
+- alpine ("sudo port install alpine", http://ubuntuforums.org/showthread.php?p=6758262, http://www.madboa.com/geek/pine-macosx/#openssl but copy to /opt/local/etc/openssl instead of /System/Library/OpenSSL, http://pinguin.uni-psych.gwdg.de/~ihrke/wiki/index.php/Installing_and_configuring_pine#Getting_GMail_Contacts_into_Pine, and settings: quit without confirming, enable alternate editor implicitly, do not generate sender header)
+
+past programs on windows
+
+- pandacloud antivirus
+- cygwin
+- putty
+- intype
+- password safe
+- windirstat
+- winrar
+
+websites
+
+- google: search (with keyboard shortcuts lab), calendar (with two-week default view and tasks), mail (with keyboard shortcuts), wave, voice, reader, sites, checkout, webmaster tools, groups, docs, youtube, analytics, app engine
+- [bank websites]
+- mint
+- amazon, audible
+- wikipedia
+- facebook
+- linkedin
+- paypal
+- github
+
