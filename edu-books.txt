@@ -1,3 +1,5 @@
+(P) = paper
+
 Coding - Technique
 
 Code Complete: A Practical Handbook of Software Construction, Steve McConnell, 2004.
@@ -87,6 +89,7 @@ Anticancer, A New Way of Life, New Edition, David Servan-Schreiber, 2009.
 The New Becoming Vegetarian: The Essential Guide To A Healthy Vegetarian Diet, 2003.
 In Defense of Food: An Eater's Manifesto, Michael Pollan, 2009.
 The Omnivore's Dilemma: A Natural History of Four Meals, Michael Pollan, 2007.
+(P) Metabolism and cancer: the circadian clock connection, Saurabh Sahar and Paolo Sassone-Corsi, 2009. http://www.nature.com/nrc/journal/v9/n12/full/nrc2747.html
 
 Cooking
 

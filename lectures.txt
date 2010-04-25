@@ -1,0 +1,33 @@
+(C) = course 
+(S) = series
+(A) = audio only
+
+computer science
+
+(C) stanford's "programming paradigms" course: http://see.stanford.edu/see/courseinfo.aspx?coll=2d712634-2bf1-4b55-9a3a-ca9d470755ee
+on ftp and some internet history: http://www.youtube.com/watch?v=o59mQhBiUo4
+practical one-time padding: http://athome.harvard.edu/programs/hvs/index.html
+(C) OS and systems programming: http://webcast.berkeley.edu/course_details_new.php?seriesid=2010-B-26518&semesterid=2010-B 
+(C) data structures: http://webcast.berkeley.edu/course_details_new.php?seriesid=2008-D-26332&semesterid=2008-D
+(C) classic scheme course: http://ocw.mit.edu/OcwWeb/Electrical-Engineering-and-Computer-Science/6-001Spring-2005/CourseHome/index.htm
+(C) system engineering: http://ocw.mit.edu/OcwWeb/Electrical-Engineering-and-Computer-Science/6-033Spring-2009/CourseHome/index.htm
+(C) algorithms: http://ocw.mit.edu/OcwWeb/Electrical-Engineering-and-Computer-Science/6-046JFall-2005/CourseHome/index.htm  
+(C) parallel programming: http://ocw.mit.edu/OcwWeb/Electrical-Engineering-and-Computer-Science/6-189January--IAP--2007/CourseHome/index.htm
+(C) a lot of CS courses, some of which are available without harvard identificationx: http://www.extension.harvard.edu/2009-10/courses/csci.jsp#e-1 
+
+misc
+
+(S) princeton video lectures: http://opa.yale.edu/videos.aspx
+(S, A) princeton lectures: http://www.princeton.edu/WebMedia/lectures/
+(S) yale lectures: http://opa.yale.edu/netcasts.aspx
+(S) harvard at home: http://athome.harvard.edu/archive.html
+(S) berkeley events: http://webcast.berkeley.edu/events.php
+(C, A) microeconomics: http://webcast.berkeley.edu/course_details_new.php?seriesid=2010-B-22381&semesterid=2010-B
+
+health
+
+http://athome.harvard.edu/programs/lhl/
+http://athome.harvard.edu/programs/lhlb/
+http://athome.harvard.edu/programs/lhlc/
+
+
