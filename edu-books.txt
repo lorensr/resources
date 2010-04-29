@@ -1,4 +1,5 @@
 (P) = paper
+(A) = audio - books i have on audiobook from audible.com
 
 Coding - Technique
 
@@ -33,6 +34,7 @@ Philip and Alex's Guide to Web Publishing - Philip Greenspun, 1999.
 
 Computer Industry
 
+(A) Googled, Ken Auletta, 2009.
 Founders at Work: Stories of Startups' Early Days, Jessica Livingston, 2007.
 Reality Check: The Irreverent Guide to Outsmarting, Outmanaging, and Outmarketing Your Competition, Guy Kawasaki, 2008.
 iWoz: Computer Geek to Cult Icon: How I Invented the Personal Computer, Co-Founded Apple, and Had Fun Doing It, Steve Wozniak & Gina Smith, 2006.

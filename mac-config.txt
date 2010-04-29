@@ -16,6 +16,7 @@ changes to basic system configuration
 - system preferences -> keyboard -> keyboard shortcuts -> keyboard & text input -> move focus to menu bar: ctrl-shift-f
 - system preferences -> keyboard -> keyboard shortcuts -> application shortcuts -> show help menu: cmd-q, quit: something else (the substitutions i tried didn't work [for instance alt-shift-q. can anyone tell me why this doesn't work?], which sadly means i have to ctrl-shift-f, right, down, up, enter to exit programs, but the main point is that cmd-q no longer quits a program, so when i hit it accidentally instead of cmd-w, i'm okay)
 - system preferences -> accounts -> login items -> quicksilver, firefox, chrome, emacs, thunderbird, and aTypeTrainer4Mac
+- monthly battery care: http://support.apple.com/kb/HT1490
 
 programs i use
 
