@@ -3,8 +3,14 @@ a collection of recommendations
 books.txt
   pleasure books that i've read and enjoyed or expect to be good 
 
+eclipse-keys.txt
+  keyboard shortcuts in eclipse
+
 edu-books.txt
   educational books that i've read or that are on my to-read shelf
+
+emacs-keys.txt
+  keyboard shortcuts in emacs
 
 lectures.txt
   lectures that i have seen, that i want to see, or that are similar to ones i've seen in person
