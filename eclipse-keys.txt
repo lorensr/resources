@@ -1,0 +1,59 @@
+preferences->general->keys->scheme: emacs
+clear 'mark set'
+set 'content assist' to ctrl-space
+
+------
+
+f3 - open declaration
+
+CMD
+
+f5 - step into
+f6 - change doc
+f7 - change view
+1 - error fix
+2 l/f - assign to new local var/field
+3 - access anything
+j - incremental find
+/ - toggle comment
+(shift) k - find next (prev)
+(shift) g - find declaration (find references)
+[ / ] - fwd/bwd in location history
+o - show outline
+
+SHIFT CMD
+
+s - save all
+o - organize imports
+f - format
+p - go to matching bracket
+g - search for symbol
+f11 - run
+
+ALT CMD
+
+c - change method signature
+r - rename
+n - new item menu
+l - extract local variable
+m - extract method
+arrow - copy lines
+q - show view menu
+
+CTRL ALT
+
+dn - next declaration
+h - call hierarchy 
+
+CTRL 
+
+space - context assist
+
+SHIFT
+
+enter - insert line below cur line
+/ - toggle comment
+
+ALT
+
+dwn/up - move line(s) down/up

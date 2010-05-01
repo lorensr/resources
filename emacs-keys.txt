@@ -1,0 +1,94 @@
+c-f forward a char
+c-b backward a char
+c-d delete current char
+m-d delete from cur to end of word
+backspace delete prev char
+m-backspace delete prev word
+m-a beginning of line
+m-e end of line
+m-a beginning of sentence
+m-e end of sentence
+m-# give # as argument to next command
+c-l make your cursor be the top/bottom/center of the window
+c-h C CODING 
+m-</> start/end
+c-o newline, keep point
+c/m-u # give # as argument to next cmd
+c-x c-c quit
+c-j newline and adjust indentation
+c-i tab
+`C-x r <SPC> R'
+     Record the position of point and the current buffer in register R
+     (`point-to-register').
+`C-x r j R'
+     Jump to the position and buffer saved in register R
+     (`jump-to-register').
+c-space start selection
+c-w cut
+m-w copy
+c-y paste
+m-y after pasting, travel back in paste history
+c-k kill to end of line
+m-0 c-k kill to beginning of line
+m-k kill to end of sentence
+c-_ undo
+c-x c-_ redo
+c-x b open other buffer by name
+c-x r f save all windows/frames
+c-x s prompt for saving each opened, modified buffer
+c-s forward search
+c-r reverse search
+c-x 2/3 vertical/horizontal split
+c-x o move to next window
+c-x 0 close window
+c-x 1 close all other windows
+c-m-v move other window down
+c-x h select all
+
+DEPENDS ON MY .EMACS
+
+m-x g goto line
+c-return insert newline below
+
+HELP
+
+`C-h a TOPICS <RET>'
+     Display a list of commands whose names match TOPICS
+c-h i info (type '?' for list of keys)
+c-h c brief key info
+c-h k key documenation
+c-h f describe function
+c-h t tutorial
+c-h a keyword command search
+
+DIRED
+
+c-x d start 
+c-x 4 d other frame
+i display directory contents below
+cm-n/p move by directory
+c-u k close directory
++ create directory
+f open
+o open new win
+c-o don't select
+^ up
+d mark for delete
+x delete
+del undo
+u unmark cur line
+# flag all auto-save
+j goto file (have to tab for auto-complete)
+g refresh
+s order by name/date
+
+BUFFER LIST
+
+c-x c-b open buffer list
+ret select buffer in current window
+o select buffer in other window
+1 select buffer in fullscreen window
+
+s save
+d delete
+x execute 
