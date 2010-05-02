@@ -1,5 +1,8 @@
 a collection of recommendations
 
+.emacs
+  emacs config file
+
 books.txt
   pleasure books that i've read and enjoyed or expect to be good 
 
