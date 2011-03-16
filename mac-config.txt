@@ -3,51 +3,84 @@
 2.53 GHz Intel Core 2 Duo
 
 changes to basic system configuration
-(this is an incomplete list - i don't remember everything that i did)
 
+- terminal -> 'defaults write com.apple.finder AppleShowAllFiles TRUE'
+- boot from snow leopard disc -> utilities -> firmware password utility
 - apple icon -> dock -> 'turn hiding on'
-- terminal -> preferences -> settings -> check box 'use option as meta key'
+- dock -> delete all 
+- dock -> divider line -> drag down all the way
+- terminal -> preferences -> settings -> keyboard -> check box 'use option as meta key'
 - enable meta key in cocoa applications: http://www.macosxhints.com/article.php?story=20010729214616497
 - sudo echo '127.0.0.1    ad.doubleclick.com' >> /etc/hosts
+- disable spotlight indexing - 'sudo mdutil -a -i off'
+- disable dashboard: 'sudo defaults write com.apple.dashboard mcx-disabled -boolean NO ; sudo killall Dock'
 - system preferences -> desktop & screen saver -> desktop -> fill screen with a black image
 - system preferences -> desktop & screen saver -> screen saver -> start screen saver never
-- system preferences -> spotlight -> menu keyboard shortcut: alt-space
+- system preferences -> energy saver -> uncheck automatically reduce brightness, drag display sleep to 5 minutes
+- system preferences -> trackpad -> tap to click, dragging, drag lock, secondary click
+- system preferences -> date & time -> clock -> show date; announce the time on the hour by vicki
+- system preferences -> spotlight -> menu keyboard shortcut: alt-space (cmd-space taken by quicksilver and ctrl-space taken by emacs)
+- system preferences -> security -> general -> require password immediately after sleep or screen saver begins
+- system preferences -> security -> filevault -> 
 - system preferences -> keyboard -> keyboard -> use all F1 etc keys as function keys
 - system preferences -> keyboard -> keyboard shortcuts -> keyboard & text input -> move focus to menu bar: ctrl-shift-f
-- system preferences -> keyboard -> keyboard shortcuts -> application shortcuts -> show help menu: cmd-q, quit: something else (the substitutions i tried didn't work [for instance alt-shift-q. can anyone tell me why this doesn't work?], which sadly means i have to ctrl-shift-f, right, down, up, enter to exit programs, but the main point is that cmd-q no longer quits a program, so when i hit it accidentally instead of cmd-w, i'm okay)
-- system preferences -> accounts -> login items -> quicksilver, firefox, chrome, emacs, thunderbird, and aTypeTrainer4Mac
+- system preferences -> keyboard -> keyboard shortcuts -> application shortcuts -> show help menu: cmd-q
+- system preferences -> keyboard -> keyboard shortcuts -> application shortcuts -> + -> Google Chrome, "Quit Google Chrome", cmd-alt-q [i'd like to be able to add one rule for cmd-alt-q being quit, but since the name of the menu item is different for each application ("Quit Terminal" versus "Quit Finder"), i have to add individual rules for each application. does anyone know a better way?]; All Applications, "Zoom", f12, "Minimize", [something complicated so i don't minimize accidentally]
+- system preferences -> accounts -> login items -> quicksilver, chrome, and emacs
 - monthly battery care: http://support.apple.com/kb/HT1490
+- status menu battery icon -> show -> time
+- enable root: http://support.apple.com/kb/ht1528
+- time machine -> uncheck 'show time machine status in the menu bar'
+- bluetooth: off; uncheck 'show bluetooth status in the menu bar'
+- finder: cmd-j -> 'calculate all sizes' [can this be done for all directories instead of on a dir-by-dir basis?]
 
-programs i use
+software i use
 
-- wireshark: http://michaelgracie.com/2009/10/13/getting-wireshark-running-on-os-x-snow-leopard-10.6/
-- istat menus with only a pie chart for ram and graphs for cpus
+- wireshark (https://github.com/lorensr/homebrew/blob/master/Library/Formula/wireshark.rb)
 - quicksilver with cmd-space to open
 - the ability to tile windows: http://idletogether.com/tile-windows-in-osx-mac-leopard-quicksilver-howto-applescript/ (i changed maxCols to 2)
-- google chrome with xmarks, webpage screenshot, the camelizer, lastpass, tab menu, and session manager (the last two are buggy with the amount of windows and tabs i keep open, but are better than nothing)
-- firefox with xmarks, tab mix plus, gwt developer plugin, ubiquity, session manager, and firebug
+- google chrome with delicious, kb ssl enforcer, chrome sniffer, google voice, the camelizer, type-ahead-find, chromed bird, minimalist google calendar and mail, quick enable and disable, and session manager (the last is buggy with the amount of windows and tabs i keep open, but is better than nothing)
+ - preferences -> basics -> default search -> manage -> add https://encrypted.google.com/search?q=%s and make default
+ - http://lifehacker.com/5731656/how-to-perform-nearly-any-task-from-your-browsers-address-bar
+ - another extension: lastpass.
+  - advanced -> warn before filling insecure forms
+  - hotkeys -> generate password = m-g, site search = m-s, next login = m-+, prev = m--, submit form = m-m, open vault = m-o, form fill = m-i
+- firefox with delicious, tab mix plus, gwt developer plugin, ubiquity, session manager, and firebug
 - skype
-- emacs (the version that is a stand-alone mac program, versus in a terminal window)
 - ftp & sftp (command line)
 - aTypeTrainer4Mac
 - audacity
 - eclipse
 - gimp
-- front row  
-- mysql, mysql query browser, and mysql administrator
-- parallels
+- front row
 - picasa
 - screenflow
 - the unarchiver
 - microsoft office
 - vlc
-- nmap
 - activity monitor
 - terminal (http://aaronlongwell.com/2009/04/mac-osx-terminal-keyboard-mappings-home-end-p.html)
-- git
+- xcode
+- disk inventory x
+- homebrew
+- brew install wget git dos2unix nmap ruby
+- rubygems
+- gem install brewbygems
+- emacs: 'brew install emacs --cocoa'
+ - in finder, select a text file -> cntl-i -> Open with: -> Emacs -> Change All
+ - 'gem install rtags'
+- prey
+- macfuse (w/ sshfs -> http://code.google.com/p/macfuse/source/browse/trunk/filesystems/sshfs/binary/sshfs-static-leopard)
+- encfs (http://wiki.rdiff-backup.org/wiki/index.php/BackupToEncfsAcrossSshfs)
+- rsync
+- sizeup ($13)
 
 past programs on mac
 
+- parallels
+- mysql, mysql query browser, and mysql administrator
+- macports
+- istat menus with only a pie chart for ram and graphs for cpus
 - filezilla
 - mactex
 - textedit
@@ -66,7 +99,7 @@ past programs on windows
 
 websites
 
-- google: search (with keyboard shortcuts lab), calendar (with two-week default view and tasks), mail (with keyboard shortcuts), wave, voice, reader, sites, checkout, webmaster tools, groups, docs, youtube, analytics, app engine
+- google: search (with keyboard shortcuts lab), calendar (with two-week default view and tasks), mail (with keyboard shortcuts and rapportive), wave, voice, reader, sites, checkout, webmaster tools, groups, docs, youtube, analytics, app engine
 - [bank websites]
 - mint
 - amazon, audible
@@ -75,4 +108,6 @@ websites
 - linkedin
 - paypal
 - github
+- notifinder
+- padmapper
 

@@ -3,6 +3,7 @@
 
 Coding - Technique
 
+The Pragmatic Programmer: From Journeyman to Master, Andrew Hunt and David Thomas, 1999.
 Code Complete: A Practical Handbook of Software Construction, Steve McConnell, 2004.
 Clean Code: A Handbook of Agile Software Craftsmanship, Robert C. Martin, 2008.
 Coders at Work, Peter Seibel, 2009.
@@ -14,13 +15,15 @@ The Mythical Man-Month: Essays on Software Engineering - Frederick Brooks, 1975.
 
 Coding - Technical
 
+HTML5 and CSS3, Brian P. Hogan, 2011.
+Pragmatic Guide to Javascript, Christophe Portenueve, 2010.
 Advanced Programming in the UNIX Environment, W. Richard Stevens & Stephen A. Rago, 2008.
 Beginning Linux Programming, Neil Matthew & Richard Stones, 2007.
 Software Engineering for Internet Applications, Eve Andersson, Philip Greenspun, & Andrew Grumet, 2006.
+Philip and Alex's Guide to Web Publishing - Philip Greenspun, 1999.
 Java Software Solutions: Foundations of Program Design, John Lewis and William Loftus, 2008.
 Structure and Interpretation of Computer Programs, Harold Abelson and Gerald Jay Sussman, 1996.
 The Haskell School of Expression: Learning Functional Programming through Multimedia, Paul Hudak, 2000.
-Introduction to Algorithms, Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, and Clifford Stein, 2003.
 
 Software 
 
@@ -30,7 +33,7 @@ The Best Software Writing I: Selected and Introduced by Joel Spolsky, 2005.
 Hackers and Painters: Big Ideas from the Computer Age, Paul Graham, 2004.
 The Psychology of Everyday Things, Donald A. Norman, 1988.
 Psychology of Computer Programming, Gerald M. Weinberg, 1985.
-Philip and Alex's Guide to Web Publishing - Philip Greenspun, 1999.
+Getting Real, 37signals, 2010.
 
 Computer Industry
 
@@ -88,7 +91,6 @@ Switching to VoIP, Ted Wallingford, 2005.
 Health & Nutrition
 
 Anticancer, A New Way of Life, New Edition, David Servan-Schreiber, 2009.
-The New Becoming Vegetarian: The Essential Guide To A Healthy Vegetarian Diet, 2003.
 In Defense of Food: An Eater's Manifesto, Michael Pollan, 2009.
 The Omnivore's Dilemma: A Natural History of Four Meals, Michael Pollan, 2007.
 (P) Metabolism and cancer: the circadian clock connection, Saurabh Sahar and Paolo Sassone-Corsi, 2009. http://www.nature.com/nrc/journal/v9/n12/full/nrc2747.html
@@ -109,8 +111,6 @@ Practical
 
 How to Repair Your Car, Paul Brand, 2006.
 ACEP First Aid Manual, 2nd edition, 2004.
-Taxes 2009 For Dummies, Eric Tyson, 2008.
-Investing For Dummies, Fifth edition, Eric Tyson, 2008.
 The Complete Guide to Massage: A Step-by-Step Approach to Total Body Relaxation, Susan Mumford, 1996.
 
 Misc Interesting

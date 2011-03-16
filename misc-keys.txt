@@ -1,0 +1,8 @@
+MAC
+
+c-f8 move focus to status menus
+c-f7 change way tab moves focus
+
+FINDER
+
+[shift-]tab prev/next item in finder (alphabetical)

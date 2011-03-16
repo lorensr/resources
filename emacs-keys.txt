@@ -1,3 +1,10 @@
+m-u make word uppercase
+m-l make word lowercase
+c-x = selected char count; code of next char
+C-u M-. find next occurrence of tag         
+M-x visit-tags-table specify a new tags file             
+m-j continue comment
+c-/ undo
 c-f forward a char
 c-b backward a char
 c-d delete current char
@@ -37,7 +44,8 @@ c-x b open other buffer by name
 c-x r f save all windows/frames
 c-x s prompt for saving each opened, modified buffer
 c-s forward search
-c-r reverse search
+ c-w add next word
+ c-r reverse search
 c-x 2/3 vertical/horizontal split
 c-x o move to next window
 c-x 0 close window
@@ -92,3 +100,7 @@ o select buffer in other window
 s save
 d delete
 x execute 
+
+RUBY
+
+m-; comment toggle
