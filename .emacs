@@ -1,1 +1,1 @@
-/Users/Me/.emacs
+/Users/me/.emacs

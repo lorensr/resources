@@ -74,6 +74,7 @@ software i use
 - encfs (http://wiki.rdiff-backup.org/wiki/index.php/BackupToEncfsAcrossSshfs)
 - rsync
 - sizeup ($13)
+- image capture (needed for getting pics + movies off of ipod touch)
 
 past programs on mac
 

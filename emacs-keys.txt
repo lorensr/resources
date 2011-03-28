@@ -1,3 +1,5 @@
+c-s-backspace kill whole current line
+c-x z[+] repeat last command
 m-u make word uppercase
 m-l make word lowercase
 c-x = selected char count; code of next char
